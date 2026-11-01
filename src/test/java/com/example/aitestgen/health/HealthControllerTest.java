@@ -1,4 +1,4 @@
-package com.example.demo.health;
+package com.example.aitestgen.health;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.example.demo.health;
+package com.example.aitestgen.health;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
